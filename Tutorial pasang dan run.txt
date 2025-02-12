@@ -1,0 +1,24 @@
+CARA PASANG UNTUK VPS
+
+1. download apk file manager+
+2. pencet remote yng gambar komputer
+3. tambahkan lokasi remote
+4. pilih sftp
+5. isi data vps lu
+
+CARA RUN NYA LEWAT VPS
+JIKA SEMUA DI ATAS SUDAH KALIAN BUKA TERMINAL ANDROID SEPERTI TERMUX, TERMIUS
+
+1. Masuk ke terminal lu
+2. masukin seperti ini di terminal kalian ssh root@ipvps
+nanti suruh masukin pw vps lu
+3. masukan command ini
+4. curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+5. nvm install node
+6. apt install npm
+7. npm i axios fs fg net tls url path http https http2 cluster cheerio header-generator crypto gradient-string os colors hpack user-agents randomstring random-useragent minimist http2-wrapper child_process
+8. node index.js
+9. password fatc2
+10. dan selesai
+
+sekian project —FathirC2—
